@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaharbaan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20%7C%20Multi-Agent%20AI%20Developer%20%7C%20Data%20Scientist&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaharban%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20%7C%20Multi-Agent%20AI%20Developer%20%7C%20Data%20Scientist&descAlignY=55&descSize=16" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;Architecting+RAG+Pipelines+%26+LLM+Solutions+%F0%9F%A7%A0;Turning+Complex+Data+into+Executive+Intelligence+%F0%9F%93%8A;GenAI+%7C+LangGraph+%7C+MCP+%7C+Decision+Intelligence+%E2%9A%A1" alt="Typing SVG" />
