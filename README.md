@@ -197,14 +197,13 @@ class ShaharbanV:
 
 ---
 
-## 🐍 Contribution Graph
+<h2>🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shaharban-banu/shaharban-banu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ *To enable the snake animation, add a GitHub Actions workflow at `.github/workflows/snake.yml` that generates the SVG to the `output` branch.*
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaharban-banu/shaharban-banu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaharban-banu/shaharban-banu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shaharban-banu/shaharban-banu/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 🤝 Let's Connect
