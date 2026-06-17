@@ -29,7 +29,7 @@
 ## ⚡ About Me
 
 ```python
-class ShaharbaanV:
+class ShaharbanV:
     role        = "GenAI Engineer | Multi-Agent AI Developer | Data Scientist"
     location    = "Kerala, India 🇮🇳"
     education   = "B.Tech Computer Science Engineering (Data Science Specialization)"
@@ -101,46 +101,6 @@ class ShaharbaanV:
 ### 🏆 ExecuMind AI — Multi-Agent Executive Intelligence Platform
 
 > *Transforming raw e-commerce data into boardroom-ready decisions using AI agents that reason, retrieve, and forecast.*
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                         ExecuMind AI — System Architecture                      │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                  │
-│   User Query                                                                     │
-│       │                                                                          │
-│       ▼                                                                          │
-│  ┌─────────────┐     ┌──────────────────────────────────────────────────────┐   │
-│  │  FastAPI    │────▶│            LangGraph Orchestrator                    │   │
-│  │  Gateway    │     │  ┌──────────────────────────────────────────────┐    │   │
-│  └─────────────┘     │  │              Agent Router                    │    │   │
-│                       │  └───┬──────────────┬──────────────┬────────┘    │   │
-│                       │      │              │              │              │   │
-│                       │      ▼              ▼              ▼              │   │
-│                       │  ┌────────┐  ┌──────────┐  ┌──────────────┐     │   │
-│                       │  │  RAG   │  │   SQL    │  │  Forecast    │     │   │
-│                       │  │ Agent  │  │ Analytics│  │   Agent      │     │   │
-│                       │  └───┬────┘  └────┬─────┘  └──────┬───────┘     │   │
-│                       │      │            │               │              │   │
-│                       └──────┼────────────┼───────────────┼──────────────┘   │
-│                              │            │               │                   │
-│       ┌──────────────────────▼──┐  ┌──────▼──────┐  ┌────▼──────┐            │
-│       │   Advanced RAG Stack    │  │  SQL Engine │  │ Time      │            │
-│       │ ┌──────────────────┐    │  │             │  │ Series    │            │
-│       │ │  Hybrid Retrieval│    │  │  Analytics  │  │ Forecast  │            │
-│       │ │  HyDE Expansion  │    │  │  + Reporting│  │           │            │
-│       │ │  Cross-Encoder   │    │  └─────────────┘  └───────────┘            │
-│       │ │  Reranking       │    │                                             │
-│       │ └──────────────────┘    │                                             │
-│       │    Vector DB            │                                             │
-│       └─────────────────────────┘                                             │
-│                                                                                  │
-│                          MCP Server Layer (Tool Exposure)                        │
-│                                  │                                               │
-│                           Cloud Deployment                                       │
-│                         (Docker + Kubernetes)                                    │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
 
 **Capabilities:** Advanced RAG · Hybrid Retrieval · HyDE · Cross-Encoder Reranking · LangGraph Multi-Agent · MCP Server · SQL Analytics · Demand Forecasting · FastAPI · Docker · Cloud Deployment
 
