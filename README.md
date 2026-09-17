@@ -30,7 +30,7 @@
 
 ```python
 class ShaharbanV:
-    role        = "GenAI Engineer | Multi-Agent AI Developer | Data Scientist"
+    role        = "Data Scientist | GenAI Engineer | Multi-Agent AI Developer  "
     location    = "Kerala, India 🇮🇳"
     education   = "B.Tech Computer Science Engineering (Data Science Specialization)"
     
