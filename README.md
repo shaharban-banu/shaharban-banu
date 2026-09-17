@@ -101,6 +101,7 @@ class ShaharbanV:
 ### 🏆 ExecuMind AI — Multi-Agent Executive Intelligence Platform
 
 > *Transforming raw e-commerce data into boardroom-ready decisions using AI agents that reason, retrieve, and forecast.*
+
 **[📂 View Repository →](https://github.com/shaharban-banu/execumind-ai)**
 
 **Capabilities:** Advanced RAG · Hybrid Retrieval · HyDE · Cross-Encoder Reranking · LangGraph Multi-Agent · MCP Server · SQL Analytics · Demand Forecasting · FastAPI · Docker · Cloud Deployment
@@ -118,6 +119,8 @@ class ShaharbanV:
 
 > LLM-powered support system with RAG-based response generation and intelligent query routing. Reduces ticket resolution time by automating first-line responses with context-aware answers.
 
+**[📂 View Repository →](https://github.com/shaharban-banu/ai-customer-support-platform)**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -130,6 +133,8 @@ class ShaharbanV:
 
 > Intelligent document Q&A system enabling students to query learning materials with context-aware, source-grounded answers. Built on a production-grade RAG pipeline with LangChain.
 
+**[📂 View Repository →](https://github.com/shaharban-banu/Education-RAG)**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -140,6 +145,8 @@ class ShaharbanV:
 ### ⚙️ End-to-End MLOps Pipeline — AWS SageMaker
 
 > Production MLOps workflow covering model training, registry, deployment, monitoring, and automated retraining triggers. Containerized with Docker, orchestrated via Kubernetes, and automated with CI/CD pipelines.
+
+**[📂 View Repository →](https://github.com/shaharban-banu/builtin-container-sagemaker-iris)**
 
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
