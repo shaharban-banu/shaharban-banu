@@ -101,6 +101,7 @@ class ShaharbanV:
 ### 🏆 ExecuMind AI — Multi-Agent Executive Intelligence Platform
 
 > *Transforming raw e-commerce data into boardroom-ready decisions using AI agents that reason, retrieve, and forecast.*
+**[📂 View Repository →](https://github.com/shaharban-banu/execumind-ai)**
 
 **Capabilities:** Advanced RAG · Hybrid Retrieval · HyDE · Cross-Encoder Reranking · LangGraph Multi-Agent · MCP Server · SQL Analytics · Demand Forecasting · FastAPI · Docker · Cloud Deployment
 
